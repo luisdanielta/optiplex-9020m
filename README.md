@@ -16,5 +16,7 @@ layout-id = 3
 ### VGA
 It doesn't work, mac os.
 
-### MacOS 11.3.x
+### macOS 11.3.x
 USB does not work.
+
+I recommend the version macOS 10.14 Mojave
