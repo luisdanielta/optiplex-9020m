@@ -56,3 +56,12 @@ python macrecovery.py -b Mac-00BE6ED71E35EB86 -m 00000000000000000 download
 python macrecovery.py -b Mac-E43C1C25D4880AD6 -m 00000000000000000 download
 
 map com.apple.recovery.boot  -  Folder
+
+## GenSMBIOS
+https://github.com/corpnewt/GenSMBIOS
+
+Type:         iMac18,3
+Serial:       C02X3MY2J1GJ
+Board Serial: C028291014NJ0PGUE
+SmUUID:       AE5B3EB6-9214-4F72-AECC-6FCA1703595C
+Apple ROM:    70F087B95497
