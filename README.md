@@ -23,6 +23,7 @@ I recommend the version macOS 10.14 Mojave
 
 ### Lion(10.7):
 python macrecovery.py -b Mac-2E6FAB96566FE58C -m 00000000000F25Y00 download
+
 python macrecovery.py -b Mac-C3EC7CD22292981F -m 00000000000F0HM00 download
 
 ### Mountain Lion(10.8):
@@ -42,6 +43,7 @@ python macrecovery.py -b Mac-77F17D7DA9285301 -m 00000000000J0DX00 download
 
 ### High Sierra(10.13)
 python macrecovery.py -b Mac-7BA5B2D9E42DDD94 -m 00000000000J80300 download
+
 python macrecovery.py -b Mac-BE088AF8C5EB4FA2 -m 00000000000J80300 download
 
 ### Mojave(10.14)
