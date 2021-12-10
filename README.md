@@ -55,6 +55,9 @@ python macrecovery.py -b Mac-00BE6ED71E35EB86 -m 00000000000000000 download
 ### Big Sur(11)
 python macrecovery.py -b Mac-E43C1C25D4880AD6 -m 00000000000000000 download
 
+### Monterey (12)
+python macrecovery.py -b Mac-E43C1C25D4880AD6 -m 00000000000000000 download
+
 map com.apple.recovery.boot  -  Folder
 
 ## GenSMBIOS
