@@ -1,64 +1,18 @@
-# dell-optiplex-9020m
+## dell-optiplex-9020m, Dortania Opencore
 
-## Dortania's OpenCore
-Folder EFI
+### macOS - install
 
-### CPU
-Intel Core vPro i5-4590T
+#### Mojave
 
-### GPU
-Intel Graphics 4600
+![macOS-Mojave](./macOS-Mojave.png)
 
-## Fix
-### AppleALC
-layout-id = 3
+#### Catalina
 
-### VGA
-It doesn't work, mac os.
+![macOS-Catalian](./macOS-Catalina.png)
 
-### macOS 11.3.x
-USB does not work.
+#### Big Sur
 
-I recommend the version macOS 10.14 Mojave
-
-### Lion(10.7):
-python macrecovery.py -b Mac-2E6FAB96566FE58C -m 00000000000F25Y00 download
-
-python macrecovery.py -b Mac-C3EC7CD22292981F -m 00000000000F0HM00 download
-
-### Mountain Lion(10.8):
-python macrecovery.py -b Mac-7DF2A3B5E5D671ED -m 00000000000F65100 download
-
-### Mavericks(10.9):
-python macrecovery.py -b Mac-F60DEB81FF30ACF6 -m 00000000000FNN100 download
-
-### Yosemite(10.10):
-python macrecovery.py -b Mac-E43C1C25D4880AD6 -m 00000000000GDVW00 download
-
-### El Capitan(10.11):
-python macrecovery.py -b Mac-FFE5EF870D7BA81A -m 00000000000GQRX00 download
-
-### Sierra(10.12):
-python macrecovery.py -b Mac-77F17D7DA9285301 -m 00000000000J0DX00 download
-
-### High Sierra(10.13)
-python macrecovery.py -b Mac-7BA5B2D9E42DDD94 -m 00000000000J80300 download
-
-python macrecovery.py -b Mac-BE088AF8C5EB4FA2 -m 00000000000J80300 download
-
-### Mojave(10.14)
-python macrecovery.py -b Mac-7BA5B2DFE22DDD8C -m 00000000000KXPG00 download
-
-### Catalina(10.15)
-python macrecovery.py -b Mac-00BE6ED71E35EB86 -m 00000000000000000 download
-
-### Big Sur(11)
-python macrecovery.py -b Mac-E43C1C25D4880AD6 -m 00000000000000000 download
-
-### Monterey (12)
-python macrecovery.py -b Mac-E43C1C25D4880AD6 -m 00000000000000000 download
-
-map com.apple.recovery.boot  -  Folder
+![macOS-Big](./macOS-Big Sur.png)
 
 ## GenSMBIOS
 https://github.com/corpnewt/GenSMBIOS
@@ -72,3 +26,81 @@ Board Serial: C028291014NJ0PGUE
 SmUUID:       AE5B3EB6-9214-4F72-AECC-6FCA1703595C
 
 Apple ROM:    70F087B95497
+
+## Dortania's OpenCore
+
+Folder EFI
+
+### CPU
+
+Intel Core vPro i5-4590T
+
+### GPU
+
+Intel Graphics 4600
+
+## Fix
+
+### AppleALC
+
+layout-id = 3
+
+### VGA
+
+It doesn't work, mac os.
+
+### macOS 11.3.x
+
+USB does not work.
+
+I recommend the version macOS 10.14 Mojave
+
+### Lion(10.7):
+
+python macrecovery.py -b Mac-2E6FAB96566FE58C -m 00000000000F25Y00 download
+
+python macrecovery.py -b Mac-C3EC7CD22292981F -m 00000000000F0HM00 download
+
+### Mountain Lion(10.8):
+
+python macrecovery.py -b Mac-7DF2A3B5E5D671ED -m 00000000000F65100 download
+
+### Mavericks(10.9):
+
+python macrecovery.py -b Mac-F60DEB81FF30ACF6 -m 00000000000FNN100 download
+
+### Yosemite(10.10):
+
+python macrecovery.py -b Mac-E43C1C25D4880AD6 -m 00000000000GDVW00 download
+
+### El Capitan(10.11):
+
+python macrecovery.py -b Mac-FFE5EF870D7BA81A -m 00000000000GQRX00 download
+
+### Sierra(10.12):
+
+python macrecovery.py -b Mac-77F17D7DA9285301 -m 00000000000J0DX00 download
+
+### High Sierra(10.13)
+
+python macrecovery.py -b Mac-7BA5B2D9E42DDD94 -m 00000000000J80300 download
+
+python macrecovery.py -b Mac-BE088AF8C5EB4FA2 -m 00000000000J80300 download
+
+### Mojave(10.14)
+
+python macrecovery.py -b Mac-7BA5B2DFE22DDD8C -m 00000000000KXPG00 download
+
+### Catalina(10.15)
+
+python macrecovery.py -b Mac-00BE6ED71E35EB86 -m 00000000000000000 download
+
+### Big Sur(11)
+
+python macrecovery.py -b Mac-E43C1C25D4880AD6 -m 00000000000000000 download
+
+### Monterey (12)
+
+python macrecovery.py -b Mac-E43C1C25D4880AD6 -m 00000000000000000 download
+
+map com.apple.recovery.boot  -  Folder
