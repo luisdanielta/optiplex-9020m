@@ -12,7 +12,7 @@
 
 #### Big Sur
 
-![macOS-Big](./macOS-Big Sur.png)
+![macOS-Big](./macOS-BigSur.png)
 
 ## GenSMBIOS
 https://github.com/corpnewt/GenSMBIOS
