@@ -10,7 +10,7 @@
 
 ![macOS-Catalian](./macOS-Catalina.png)
 
-#### Big Sur
+#### Big Sur
 
 ![macOS-Big](./macOS-Big Sur.png)
 
