@@ -86,7 +86,7 @@ com.apple.recovery.boot
 
 ### Structure
 
-<img src="https://img.icons8.com/fluency/96/000000/opened-folder.png" style="" /> EFI
+<img src="https://img.icons8.com/fluency/96/000000/opened-folder.png" style="width: 15px; height: 15px;" /> EFI
 
-<img src="https://img.icons8.com/fluency/96/000000/opened-folder.png" style="" /> com.apple.recovery.boot - input dmg recovery
+<img src="https://img.icons8.com/fluency/96/000000/opened-folder.png" style="width: 15px; height: 15px;" /> com.apple.recovery.boot - input dmg recovery
 
