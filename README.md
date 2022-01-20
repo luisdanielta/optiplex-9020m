@@ -48,7 +48,7 @@ layout-id = 3
 
 ### appleALC - macOS 11.2.x
 
-![fix](./fix/AppleALC - audio - macOS 11.2.x/fix.gif)
+![fix](./fix/fix.gif)
 
 ------
 
