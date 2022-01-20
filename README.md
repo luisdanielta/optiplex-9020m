@@ -46,9 +46,11 @@ Apple ROM:    70F087B95497
 
 layout-id = 3
 
-### VGA
+### appleALC - macOS 11.2.x
 
-It doesn't work, mac os.
+![fix](./fix/AppleALC - audio - macOS 11.2.x/fix.gif)
+
+------
 
 ### macOS 11.3.x - 12 - up
 
